@@ -113,8 +113,5 @@ The application uses an SQLite database with the following tables:
 - `message`: TEXT NOT NULL
 - `timestamp`: DATETIME DEFAULT CURRENT_TIMESTAMP
 
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
-
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
