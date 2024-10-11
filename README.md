@@ -40,10 +40,10 @@ A simple chat application built with PHP (using the Slim Framework) for the back
     composer install
     ```
 
-3. **Set up environment variables:** Create a `.env` file in the root directory and define the following variable:
+3. **Set up environment variables:** Create a `.env` file in the root directory and define the following variable (adjust the path base on your file location):
 
     ```plaintext
-    DB_PATH=database/database.sqlite
+    DB_PATH=E:/chat-app/src/database/chat.sqlite
     ```
 
 4. **Run migrations:** Execute the migrations file to create the necessary database tables:
